@@ -8,7 +8,7 @@
 
 - *currently living in Wrocław, Poland 🏡*
 
-- *have 3+ years of experience in programming industrial robots 🦾 and teaching them to construct Mercedes cars 🚗 and produce toothpaste 🦷😁*
+- *have 3+ years of experience in industrial robots programming 🦾 and teaching them how to construct Mercedes cars 🚗 and to produce toothpaste 🦷😁*
 
 
 ## You
