@@ -1,4 +1,4 @@
-# Welcome my playground! 👋🏻  
+# Welcome to my playground! 👋🏻  
 
 *Hi folks, Patryk here* 
 
