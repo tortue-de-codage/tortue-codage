@@ -2,7 +2,7 @@
 
 *Hi folks, Patryk here* 
 
-## Me
+### Me
 
 - *an automation and robotics engineer 🎓*
 
@@ -11,7 +11,7 @@
 - *have 3+ years of experience in industrial robots programming 🦾 and teaching them how to construct Mercedes cars 🚗 and to produce toothpaste 🦷😁*
 
 
-## You
+### You
 - *were interested enough to come over, nice! ✋🏽*
 
 - *are always very welcomed here! ☕*
@@ -19,7 +19,7 @@
 - *can feel free to share your thoughts & pro tips (including savoire vivre of GitHub and/or Python) 👨🏼‍🏫*
 
 
-## What's in MENU
+### What's in MENU
 *Since I've decided to start developing my Python-ish skills, I am currently searching for new professional opportunities.*
 
 *Being aware that the journey will not be that easy, I'm aiming to take advantage of my current experience of programming robots and to use it wisely!*
@@ -28,12 +28,6 @@
 
 
 __I'll-be-back... 🤖 (shortly)__
-
-
-<br />
-
-## You can find me at
-
 
 
 <!---
