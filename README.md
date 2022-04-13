@@ -24,8 +24,6 @@
 
 *Being aware that the journey will not be that easy, I'm aiming to take advantage of my current experience of programming robots and to use it wisely!*
 
-*Here I'm gonna share my playground code as well as professional portfolio code.* 
-
 <br />
 
 __I'll-be-back... 🤖 (shortly)__
