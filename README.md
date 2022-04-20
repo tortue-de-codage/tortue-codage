@@ -20,7 +20,7 @@
 
 
 ### What's in MENU
-*Since I've decided to start developing my Python-ish skills, I am currently searching for new professional opportunities.*
+*Since I've decided to start developing my Python-ish skills, I am currently building afresh my professional path.*
 
 *Being aware that the journey will not be that easy, I'm aiming to take advantage of my current experience of programming robots and to use it wisely!*
 
