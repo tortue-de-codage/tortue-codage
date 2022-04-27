@@ -26,7 +26,6 @@
 
 <br />
 
-__I'll-be-back... 🤖 (shortly)__
 
 
 <!---
